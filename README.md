@@ -15,5 +15,3 @@ a masterpiece of the gaming world.
 
 ![hollowmind preview](https://user-images.githubusercontent.com/72809297/230991474-fdf4ae03-661b-4bda-97ba-be31e960ebd2.gif)
 
-## 🎫 Contact
-gabriel.cordeiro.25@gmail.com
