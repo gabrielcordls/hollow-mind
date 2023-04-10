@@ -26,7 +26,7 @@ const checkEndGame = () => {
   
     if (disabledCards.length === 20) {
         clearInterval(this.loop);
-      alert(`${spanPlayer.innerHTML}, you've been returned to void. Total time: ${timer.innerHTML}`);
+      alert(`${spanPlayer.innerHTML}, You've been returned to void. Total time: ${timer.innerHTML}`);
     }
   }
 
