@@ -21,6 +21,9 @@ const createElement = (tag, className) => {
     return element;
 }
 
+let firstCard = '';
+let secondCard = '';
+
 const checkEndGame = () => {
     const disabledCards = document.querySelectorAll('.disabled-card');
   
